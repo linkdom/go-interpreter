@@ -2,6 +2,7 @@ package lexer
 
 import (
     "testing"
+
     "go-interpreter/token"
 )
 

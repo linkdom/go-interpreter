@@ -1,3 +1,3 @@
-module github.com/linkdom/go-interpreter
+module go-interpreter
 
 go 1.17
